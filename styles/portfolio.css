@@ -185,6 +185,7 @@ footer .social-links a:hover {
 }
 
 .screenshot {
+    max-width: 500px;
     border-radius: 10px;
 }
 
