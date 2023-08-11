@@ -184,6 +184,10 @@ footer .social-links a:hover {
     border-radius: 14px;
 }
 
+.screenshot {
+    border-radius: 10px;
+}
+
 @media (max-width: 992px) {
     h1 {
         font-size: 44px;
