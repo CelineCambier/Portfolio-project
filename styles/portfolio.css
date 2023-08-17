@@ -154,6 +154,10 @@ footer .social-links a:hover {
     font-size: 14px;
 }
 
+.content img:hover {
+    transform: scale(1.2);
+}
+
 .content {
     margin: 30px;
 }
